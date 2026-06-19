@@ -57,9 +57,9 @@ Desenvolver um dashboard interativo que integre dados da ANTAQ para analisar a e
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 24/04/2026 | Concluído  | [MVP](MVP/MVP/sp1.md)  |
-| 02                | 22/05/2026 | Aguardando início  | [MVP](MVP/MVP/sp2.md)  |
-| 03                | 29/05/2026 | Aguardando início  | [MVP](MVP/MVP/sp3.md)  |
-| Feira de Soluções | 25/06/2026 | Aguardando início  | [MVP](#)  |
+| 02                | 22/05/2026 | Concluído | [MVP](MVP/MVP/sp2.md)  |
+| 03                | 29/05/2026 | Concluído  | [MVP](MVP/MVP/sp3.md)  |
+| Feira de Soluções | 25/06/2026 | Concluído  | [MVP](#)  |
 
 
 

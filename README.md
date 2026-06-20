@@ -38,19 +38,19 @@ Desenvolver um dashboard interativo que integre dados da ANTAQ para analisar a e
  > Google Colab;
  > PowerBI;
 
-># Product Backlog
+# Product Backlog
 
-| Rank | Prioridade | User Story | Esforço | Sprint |
-|------|------------|------------|---------|--------|
-| 1 | Alta | Como desenvolvedor, quero realizar a extração e limpeza dos dados da ANTAQ via Python para garantir a integridade da base. | 5 | 1 |
-| 2 | Alta | Como analista, quero visualizar o tempo médio de espera e operação por porto para identificar gargalos logísticos. | 8 | 1 |
-| 3 | Baixa | Como investidor, quero ver a evolução mensal da quantidade de carga transportada para prever tendências de mercado. | 8 | 2 |
-| 4 | Alta | Como cliente, quero que a interface seja intuitiva e responsiva para facilitar o acesso em diferentes dispositivos. | 8 | 2 |
-| 5 | Baixa | Como usuário, quero filtrar os dados por tipo de carga e terminal para realizar análises segmentadas. | 8 | 2 |
-| 6 | Média | Como analista, quero identificar os "Top N" motivos de paradas portuárias para entender as causas de ineficiência. | 8 | 3 |
-| 7 | Alta | Como gestor, quero visualizar a quantidade de contêineres por navio e o conteúdo transportado para acompanhar a operação portuária de forma detalhada. | 8 | 3 |
-| 8 | Média | Como analista, quero visualizar as principais paradas vinculadas às operações de apoio e seus respectivos tipos de operação para identificar gargalos operacionais. | 8 | 3 |
-| 9 | Alta | Como gestor, quero um ranking de eficiência dos terminais baseado na movimentação vs infraestrutura instalada. | 8 | 3 |
+| Rank | Prioridade | User Story | Esforço | Status | Sprint | Requisitos do parceiro |
+| :---: | :---: | :--- | :---: | :---: | :---: | :--- |
+| **1** | Alta | Como desenvolvedor, quero realizar a extração e limpeza dos dados da ANTAQ via Python para garantir a integridade da base. | 5 | Finalizada | 1 | Código em Python (Google Colab) que acesse o Portal Estatístico e realize a normalização. |
+| **2** | Alta | Como analista, quero visualizar o tempo médio de espera e operação por porto para identificar gargalos logísticos. | 8 | Finalizada | 1 | Dashboard com indicadores de tempo de espera (agilidade) e tempos de processamento. |
+| **3** | Baixa | Como investidor, quero ver a evolução mensal da quantidade de carga transportada para prever tendências de mercado. | 8 | Finalizada | 2 | Gráfico de linha demonstrando a evolução das movimentações por mês. |
+| **4** | Alta | Como cliente, quero que a interface seja intuitiva e responsiva para facilitar o acesso em diferentes dispositivos. | 8 | Finalizada | 2 | Navegação com poucos cliques e layout adaptável (Sistema responsivo). |
+| **5** | Baixa | Como usuário, quero filtrar os dados por tipo de carga e terminal para realizar análises segmentadas. | 8 | Finalizada | 2 | Implementação de filtros interativos e busca personalizada por terminal. |
+| **6** | Média | Como analista, quero identificar os "Top N" motivos de paradas portuárias para entender as causas de ineficiência. | 8 | Finalizada | 3 | Gráfico de barras com os principais motivos de parada e filtro por período do ano. |
+| **7** | Alta | Como gestor, quero visualizar a quantidade de contêineres por navio e o conteúdo transportado para acompanhar a operação portuária de forma detalhada. | 8 | Finalizada | 3 | Dashboard com relação navio x quantidade de contêineres e detalhamento do tipo/conteúdo transportado. |
+| **8** | Média | Como analista, quero visualizar as principais paradas vinculadas às operações de apoio e seus respectivos tipos de operação para identificar gargalos operacionais. | 8 | Finalizada | 3 | Gráfico com classificação das principais paradas em operações de apoio e filtro por tipo de operação. |
+| **9** | Alta | Como gestor, quero um ranking de eficiência dos terminais baseado na movimentação vs infraestrutura instalada. | 8 | Finalizada | 3 | Visualização de Ranking por eficiência comparativa entre diferentes terminais. |
 
 # Registro das Sprints
 

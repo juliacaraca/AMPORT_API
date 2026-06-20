@@ -54,3 +54,7 @@ Enriquecer o dashboard com inteligência analítica avançada e ferramentas de t
 * **Acurácia do Diagnóstico:** Consistência nas fórmulas de cálculo de eficiência cruzadas com os dados originais da ANTAQ (Meta: 100% de precisão matemática).
 * **Granularidade da Informação:** Capacidade de descer do nível macro (Terminal) para o micro (Navio/Contêiner) sem perda de contexto técnico.
 * **Tempo de Geração do Ranking:** O cálculo da matriz de eficiência vs infraestrutura deve ser pré-processado na base para garantir performance de renderização.
+---
+
+## 📂 Anexos / Evidências
+[Assista ao vídeo no YouTube](x)
